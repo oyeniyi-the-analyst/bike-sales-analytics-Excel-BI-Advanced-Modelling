@@ -14,7 +14,10 @@ To identify revenue drivers, customer segments, and growth opportunities.
 - Interactive slicers
 
 ## Dashboard Preview
-![Dashboard](Visuals/dashboard_preview.png)
+<div align="center">
+  <img src="https://github.com/oyeniyi-the-analyst/bike-sales-analytics-Excel-BI-Advanced-Modelling/Documentation/blob/main/visuals/dashboard_preview.png?raw=true"
+       alt="Executive Overview Dashboard"
+       width="80%" />
 
 ## Tools Used
 - Microsoft Excel
