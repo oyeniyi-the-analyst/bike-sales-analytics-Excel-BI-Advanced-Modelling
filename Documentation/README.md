@@ -18,7 +18,9 @@ To identify revenue drivers, customer segments, and growth opportunities.
   <img src="https://github.com/oyeniyi-the-analyst/bike-sales-analytics-Excel-BI-Advanced-Modelling/blob/main/Visuals/dashboard_preview.png?raw=true"
        alt="Executive Overview Dashboard"
        width="80%" />
----
+
+    ---
+    
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
