@@ -1,4 +1,4 @@
-# 🚴 European Bike Sales Analytics (Excel)
+# European Bike Sales Analytics (Excel)
 
 ## Overview
 This project delivers an interactive Excel dashboard using pivot tables to analyze retail performance across products, customers, and regions.
