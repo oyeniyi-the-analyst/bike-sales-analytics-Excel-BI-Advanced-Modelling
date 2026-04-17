@@ -34,7 +34,7 @@ This project presents an **interactive Excel dashboard** built using pivot table
 
 ---
 
-## Project Demo
+## Please Click the Image to watch Project Demo
 
 <div align="center">
 
