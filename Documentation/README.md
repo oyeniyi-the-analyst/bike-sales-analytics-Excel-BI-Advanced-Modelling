@@ -57,7 +57,7 @@ This project presents an **interactive Excel dashboard** built using pivot table
 
 ```
  bike-sales-analytics
- ┣  Excel_Dashboard      → Final Excel dashboard
+ ┣  Excel_Dashboard      → Final Excel dashboard sheets
  ┣  Visuals              → Dashboard screenshots
  ┣  Documentation        → Supporting project files
  ┗  README.md            → Project overview
