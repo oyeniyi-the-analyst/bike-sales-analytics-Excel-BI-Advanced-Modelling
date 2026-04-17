@@ -22,7 +22,9 @@ To identify revenue drivers, customer segments, and growth opportunities.
 
 Project Demo
 
-[![Watch the video](https://img.youtube.com/vi/iatgj59xE8o/hqdefault.jpg)](https://youtu.be/iatgj59xE8o)
+## 🎥 Demo
+
+[![Demo Video](https://img.youtube.com/vi/iatgj59xE8o/0.jpg)](https://youtu.be/iatgj59xE8o)
 
 
     
