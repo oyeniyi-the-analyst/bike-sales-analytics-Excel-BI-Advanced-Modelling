@@ -1,42 +1,80 @@
 # European Bike Sales Analytics (Excel)
 
 ## Overview
-This project delivers an interactive Excel dashboard using pivot tables to analyze retail performance across products, customers, and regions.
+
+This project presents an **interactive Excel dashboard** built using pivot tables to analyze retail performance across products, customers, and regions. It transforms raw sales data into actionable insights for business decision-making.
+
+---
 
 ## Business Objective
-To identify revenue drivers, customer segments, and growth opportunities.
 
-## Key Features
-- Advanced pivot tables
-- KPI dashboard
-- Revenue trend analysis
-- Customer and product insights
-- Interactive slicers
+* Identify key **revenue drivers**
+* Analyze **customer segments**
+* Discover **growth opportunities** across regions and products
+
+---
+
+## Tools & Skills
+
+* Microsoft Excel
+* Pivot Tables
+* Data Cleaning & Transformation
+* Data Visualization
+* KPI Reporting
+
+---
 
 ## Dashboard Preview
+
 <div align="center">
   <img src="https://github.com/oyeniyi-the-analyst/bike-sales-analytics-Excel-BI-Advanced-Modelling/blob/main/Visuals/dashboard_preview.png?raw=true"
        alt="Executive Overview Dashboard"
        width="80%" />
+</div>
 
+---
 
-Project Demo
+## Project Demo
 
-## 🎥 Demo
+<div align="center">
 
-[![Demo Video](https://img.youtube.com/vi/iatgj59xE8o/0.jpg)](https://youtu.be/iatgj59xE8o)
+[![Watch Demo](https://img.youtube.com/vi/iatgj59xE8o/0.jpg)](https://youtu.be/iatgj59xE8o)
 
+</div>
 
-    
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Data Analysis
+---
+
+## Key Insights
+
+* Revenue trends highlight **seasonal demand patterns**
+* Certain customer segments contribute disproportionately to total sales
+* High-performing products drive the majority of revenue
+* Regional differences reveal untapped market opportunities
+
+---
 
 ## Repository Structure
-- Excel_Dashboard → Excel file
-- Visuals → Dashboard screenshot
-- Documentation → Project explanation files
 
-## Outcome
-Demonstrates the ability to transform raw data into actionable business insights using Excel.
+```
+ bike-sales-analytics
+ ┣  Excel_Dashboard      → Final Excel dashboard
+ ┣  Visuals              → Dashboard screenshots
+ ┣  Documentation        → Supporting project files
+ ┗  README.md            → Project overview
+```
+
+---
+
+##  Outcome
+
+This project demonstrates the ability to:
+
+* Convert raw data into **meaningful insights**
+* Build **interactive dashboards** for stakeholders
+* Communicate findings clearly for business impact
+
+---
+
+##  Let's Connect
+
+If you found this useful or have feedback, feel free to connect or reach out!
